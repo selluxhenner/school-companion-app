@@ -35,5 +35,6 @@ Hosting
 These pages are automatically published using GitHub Pages.
 The live pages can be accessed at:
 
-https://selluxhenner.github.io/school-companion-privacy/privacy.html
-https://selluxhenner.github.io/school-companion-privacy/deletion.html
+https://selluxhenner.github.io/school-companion-app/privacy.html
+
+https://selluxhenner.github.io/school-companion-app/deletion.html
